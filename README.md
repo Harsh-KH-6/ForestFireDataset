@@ -1,13 +1,16 @@
 🔥 Forest Fire Analysis and Visualization
 
+---
 📌 Overview
 
 This project analyzes and visualizes forest fire data using Python. It includes data preprocessing, correlation heatmaps, scatter plots, geographical mapping, and K-Means clustering on fire locations.
 
+---
 📂 Dataset
 
 The dataset (forestfires.csv) contains information about forest fires, including environmental factors like temperature, humidity, wind speed, and fire size.
 
+---
 🚀 Features
 
 ✔️ Exploratory Data Analysis (EDA) – Missing values, dataset overview
@@ -19,6 +22,7 @@ The dataset (forestfires.csv) contains information about forest fires, including
 ✔️ Geographical Fire Map – Visualizing fire locations using Folium
 
 ✔️ Graph Comparisons – Effect of temperature & rainfall on fire size
+---
 
 📊 Key Visualizations
 
@@ -32,6 +36,7 @@ The dataset (forestfires.csv) contains information about forest fires, including
 
 🗺 Forest Fire Map (Folium)
 
+---
 
 📦 Installation
 
@@ -42,6 +47,8 @@ python:
 2️⃣ Upload forestfires.csv to your Google Colab session.
 
 3️⃣ Run the Python script (Forest Fire Analysis.ipynb).
+
+---
 
 📍 Usage
 
