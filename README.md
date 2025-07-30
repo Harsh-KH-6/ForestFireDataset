@@ -1,7 +1,7 @@
-🔥 Forest Fire Analysis and Visualization
+Forest Fire Analysis and Visualization
 
 ---
-📌 Overview
+📌 Overview 
 
 This project analyzes and visualizes forest fire data using Python. It includes data preprocessing, correlation heatmaps, scatter plots, geographical mapping, and K-Means clustering on fire locations.
 
