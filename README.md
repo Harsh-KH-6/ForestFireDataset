@@ -26,7 +26,7 @@ The dataset (forestfires.csv) contains information about forest fires, including
 
 ---
 
-📊 Key Visualizations
+## 📊 Key Visualizations
 
 🔥 Fire Incidents by Month & Day
 
@@ -40,7 +40,7 @@ The dataset (forestfires.csv) contains information about forest fires, including
 
 ---
 
-📦 Installation
+## 📦 Installation
 
 1️⃣ Install the required libraries:
 python:
@@ -52,21 +52,22 @@ python:
 
 ---
 
-📍 Usage
+## 📍 Usage
 
 Run all code cells in Google Colab or Jupyter Notebook.
 
 Download forest_fire_map.html and open it in a browser for an interactive map.
 
 ---
-📜 Output
+
+## 📜 Output
 
 ✅ Visual insights on fire patterns and risk factors.
 ✅ Interactive forest fire map.
 
 ---
 
-🤖 Future Improvements
+## 🤖 Future Improvements
 
 🔹 Predictive modeling using Machine Learning
 🔹 Deep Learning for fire risk assessment
