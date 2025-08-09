@@ -70,5 +70,7 @@ Download forest_fire_map.html and open it in a browser for an interactive map.
 ## 🤖 Future Improvements
 
 🔹 Predictive modeling using Machine Learning
+
 🔹 Deep Learning for fire risk assessment
+
 🔹 Adding real-time fire monitoring
